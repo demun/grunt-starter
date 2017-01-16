@@ -1,0 +1,25 @@
+{
+  "name": "grunt-starter",
+  "version": "0.0.1",
+  "description": "grunt stater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demun/grunt-starter.git"
+  },
+  "keywords": [
+    "grunt",
+    "sass",
+    "html5",
+    "javascript"
+  ],
+  "author": "demun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demun/grunt-starter/issues"
+  },
+  "homepage": "https://github.com/demun/grunt-starter#readme"
+}
